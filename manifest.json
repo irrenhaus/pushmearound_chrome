@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Push Me Around Plugin",
+  "description": "Chrome plugin client for Push Me Around",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}

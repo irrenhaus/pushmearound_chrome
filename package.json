@@ -1,0 +1,31 @@
+{
+  "name": "pushmearound_chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irrenhaus/pushmearound_chrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irrenhaus/pushmearound_chrome/issues"
+  },
+  "homepage": "https://github.com/irrenhaus/pushmearound_chrome#readme",
+  "dependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "classnames": "^2.2.5",
+    "react": "^15.2.0",
+    "react-chrome-redux": "0.0.7",
+    "react-dom": "^15.2.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "webpack": "^1.13.1"
+  }
+}
